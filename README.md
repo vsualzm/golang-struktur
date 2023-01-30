@@ -1,0 +1,2 @@
+# golang-struktur
+belajar golang 
