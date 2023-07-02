@@ -1,0 +1,3 @@
+# ini materi tentang array
+# dengan slice 
+
